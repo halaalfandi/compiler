@@ -1,0 +1,18 @@
+start  page sum2
+      head css=style
+      {
+
+      input:number(number1) class[form-control,rounded-left];
+      input:select(operation)
+      option:(name:+ )
+      option:(name:-)
+      option:(name:/)
+      option:(name:%)
+      option:(name:*);
+      input:number(number2) class[form-control,rounded-left];
+
+      }
+
+
+
+

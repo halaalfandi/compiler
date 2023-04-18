@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38feb031-28c4-444e-9457-099f97860a4a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="993288532">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PAGEParserVisitor" value="1" />
+          <entry key="class" value="2" />
+          <entry key="g4" value="42" />
+          <entry key="interp" value="1" />
+          <entry key="java" value="431" />
+          <entry key="tokens" value="2" />
+          <entry key="txt" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ANTLR v4 grammar file" value="42" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="432" />
+          <entry key="PLAIN_TEXT" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="25" />
+          <entry key="g4" value="4984" />
+          <entry key="java" value="10562" />
+          <entry key="txt" value="1695" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ANTLR v4 grammar file" value="4984" />
+          <entry key="JAVA" value="10562" />
+          <entry key="PLAIN_TEXT" value="1720" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2145997328">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.65" value="2" />
+          <entry key="project.open.time.82" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="g4" value="8" />
+          <entry key="java" value="21" />
+          <entry key="tokens" value="3" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ANTLR v4 grammar file" value="8" />
+          <entry key="JAVA" value="21" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="g4" value="11" />
+          <entry key="java" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ANTLR v4 grammar file" value="11" />
+          <entry key="JAVA" value="52" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gen/PAGEParserVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PAGELexer.g4">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PAGEParser.g4">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="70" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/samples.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gen/PAGELexer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ast/visitor/BaseVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1989">
+              <caret line="138" column="19" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1403#1404#0" expanded="true" />
+                <element signature="e#1447#1448#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gen/PAGELexer.tokens">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gen/PAGEParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1853">
+              <caret line="119" column="22" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gen/PAGEParserBaseListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SEMI</find>
+      <find>';'</find>
+      <find>NAME_OPTION</find>
+      <find>VAR</find>
+      <find>MODE_CLASS</find>
+      <find>'cl</find>
+      <find>class_</find>
+      <find>value</find>
+      <find>visitRow</find>
+      <find>visiTta</find>
+      <find>listwe</find>
+      <find>visitli</find>
+      <find>pages</find>
+      <find>Page</find>
+      <find>css</find>
+      <find>OBEN_CLASS</find>
+      <find>':'</find>
+      <find>page</find>
+      <find>'color</find>
+      <find>option</find>
+      <find>NAME_V</find>
+      <find>pragraph</find>
+      <find>'op</find>
+      <find>PARAGRAPH</find>
+      <find>NUMBER</find>
+      <find>END_</find>
+      <find>MODE_VALID</find>
+      <find>PRAGRAPH</find>
+      <find>END_IF</find>
+      <find>table</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/PAGEParser.g4" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ast/visitor/HTMLParserBaseVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ast/visitor/BaseVisitor_old.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/HtmlDocument.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Symbol.java" />
+        <option value="$PROJECT_DIR$/src/ast/visitor/BaseListener.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Program.java" />
+        <option value="$PROJECT_DIR$/src/ast/visitor/n.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/List.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/CodeGeneration.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Head.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Inside.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Data.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Field.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Output.java" />
+        <option value="$PROJECT_DIR$/src/ast/visitor/BaseVisitorcopy.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Option.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Listweb.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/InsideController.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Controller.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/IfController.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Variable.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Print.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/IfCondition.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/ControllerPhp.java" />
+        <option value="$PROJECT_DIR$/src/css3.g4" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Input.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Language.java" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/IfVeriable.java" />
+        <option value="$PROJECT_DIR$/src/PAGELexer.g4" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Page.java" />
+        <option value="$PROJECT_DIR$/samples/samplescopy.txt" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Table.java" />
+        <option value="$PROJECT_DIR$/src/ast/visitor/BaseVisitor.java" />
+        <option value="$PROJECT_DIR$/samples/samples.txt" />
+        <option value="$PROJECT_DIR$/src/ast/nodes/Select.java" />
+        <option value="$PROJECT_DIR$/src/PAGELexerll.g4" />
+        <option value="$PROJECT_DIR$/src/PAGEParser.g4" />
+        <option value="$PROJECT_DIR$/src/gen/PAGELexer.java" />
+        <option value="$PROJECT_DIR$/src/gen/PAGEParser.java" />
+        <option value="$PROJECT_DIR$/src/gen/PAGEParserBaseListener.java" />
+        <option value="$PROJECT_DIR$/src/gen/PAGEParserBaseVisitor.java" />
+        <option value="$PROJECT_DIR$/src/gen/PAGEParserListener.java" />
+        <option value="$PROJECT_DIR$/src/gen/PAGEParserVisitor.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1380" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="compoailer" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="compoailer" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="compoailer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compoailer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compoailer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compoailer" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compoailer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compoailer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compoailer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compoailer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compoailer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compoailer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ast" type="462c0819:PsiDirectoryNode" />
+              <item name="visitor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compoailer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compoailer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compoailer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compoailer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compoailer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671814975842" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Express projects" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ast.visitor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lina\IdeaProjects\compoailer\src" />
+      <recent name="C:\Users\lina\IdeaProjects\compoailer\samples" />
+      <recent name="C:\Users\lina\IdeaProjects\compoailer\gen" />
+      <recent name="C:\Users\lina\IdeaProjects\compoailer" />
+      <recent name="C:\Users\lina\IdeaProjects\compoailer\src\com\company" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ast.nodes" />
+      <recent name="ast.visitor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lina\IdeaProjects\compoailer\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="compoailer" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38feb031-28c4-444e-9457-099f97860a4a" name="Default Changelist" comment="" />
+      <created>1657828049558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657828049558</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22416413" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.18032786" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.036923077" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55409837" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Tool Output" order="8" sideWeight="0.49924356" weight="0.17692308" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.53934425" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.46393442" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="11" weight="0.19538462" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.23846154" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24962178" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gen/PAGEParser.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ast/visitor/BaseVisitor.java</url>
+          <line>100</line>
+          <properties class="ast.visitor.BaseVisitor" method="visitHead">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ast/nodes/Input.java</url>
+          <line>71</line>
+          <properties class="ast.nodes.Input" method="generateInside">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/gen/gen/PAGEParserListener.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-16.0.2/lib/src.zip!/java.base/java/lang/NumberFormatException.java" />
+    <entry file="jar://$PROJECT_DIR$/jars/antlr-4.7.2-complete.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-16.0.2/lib/src.zip!/java.base/java/lang/Integer.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Symbol.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/visitor/n.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/visitor/BaseListener.java" />
+    <entry file="file://$USER_HOME$/Desktop/n.java" />
+    <entry file="file://$PROJECT_DIR$/gen/css3BaseVisitor.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/css3BaseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/CodeGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gen/PAGELexer.interp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/visitor/BaseVisitorcopy.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/IfController.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/ControllerPhp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Language.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Head.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/IfCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/IfVeriable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Input.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="70" column="3" selection-start-line="70" selection-start-column="3" selection-end-line="105" selection-end-column="5" />
+          <folding>
+            <element signature="method#generateInside#0;class#Input#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Inside.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/compilerPro2/compilerPro2/out/production/compilerPro2/errorHandling/ErrorFile.class" />
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/InsideController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Listweb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" selection-start-line="24" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Option.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Select.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="116" column="5" selection-start-line="91" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/nodes/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="88" column="14" selection-start-line="88" selection-start-column="14" selection-end-line="88" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAGEParserll.g4" />
+    <entry file="file://$PROJECT_DIR$/src/PAGELexerll.g4" />
+    <entry file="file://$PROJECT_DIR$/src/css3.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16524">
+          <caret line="972" lean-forward="true" selection-start-line="972" selection-end-line="972" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/css3.tokens">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/css3Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4845">
+          <caret line="324" column="17" selection-start-line="324" selection-start-column="17" selection-end-line="324" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/samplescopy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gen/PAGEParserListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gen/PAGEParserBaseVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gen/PAGEParserVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAGELexer.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PAGEParser.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="70" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/samples.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gen/PAGELexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ast/visitor/BaseVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="138" column="19" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1447#1448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gen/PAGELexer.tokens">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gen/PAGEParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="119" column="22" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gen/PAGEParserBaseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>compoailer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

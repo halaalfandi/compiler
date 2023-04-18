@@ -1,0 +1,60 @@
+start page login1
+head css=ooo
+head css=ooo
+{
+input:text(email) class[kklM,email];
+input:email(email) class[kklM,email];
+input:number(nuberr) class[kklM,email];
+input:date(nuberr) class[kklM,email];
+
+input:field(field) class[kklM,email];
+input:password(password) class[kklM,email];
+input:radio(mmm) class[kklM,email];
+input:radio(nn) class[kklM,email];
+input:file(vvv) class[kklM,email];
+input:checkbox(nn) class[kklM,email];
+input:checkbox(nn) class[kklM,email];
+input:checkbox(nn) class[kklM,email];
+
+
+
+input:select(name_select)
+option:(name:lllhkjhbhb )
+option:(name:lll)
+option:(name:name);
+
+
+table:(aa,aaa)
+row(aaaa,aaa)row(hhhhhhhhhhhh,aaa)row(lllllllggggggg,aaa);
+
+
+list:(ddddd,ddd);
+}
+
+
+
+
+controller loginn1 controls  login1
+{
+if(valid(email,password))
+go gg0;
+endif
+
+
+}
+
+
+ page sum2
+head css=style
+{
+
+input:number(number1) class[form-control,rounded-left];
+input:select(operation)
+option:(name:+ )
+option:(name:-)
+option:(name:/)
+option:(name:%)
+option:(name:*);
+input:number(number2) class[form-control,rounded-left];
+
+}
